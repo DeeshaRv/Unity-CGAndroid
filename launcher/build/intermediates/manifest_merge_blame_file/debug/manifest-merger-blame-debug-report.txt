@@ -1,0 +1,145 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dirtcube.androidintegrationunity"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:7:5-12:40
+13        android:anyDensity="true"
+13-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:8:9-34
+14        android:largeScreens="true"
+14-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:9:9-36
+15        android:normalScreens="true"
+15-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:10:9-37
+16        android:smallScreens="true"
+16-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:11:9-36
+17        android:xlargeScreens="true" />
+17-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:12:9-37
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+19-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+20    <uses-feature
+20-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-16:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-55
+22        android:required="false" />
+22-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-67
+24-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-64
+25
+26    <uses-feature
+26-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-52
+28        android:required="false" />
+28-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+29    <uses-feature
+29-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-63
+31        android:required="false" />
+31-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+32    <uses-feature
+32-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-28:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-72
+34        android:required="false" />
+34-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-33
+35
+36    <application
+36-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:14:5-26:19
+37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+37-->[com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+38        android:debuggable="true"
+39        android:extractNativeLibs="true"
+39-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:15:9-41
+40        android:icon="@mipmap/app_icon"
+40-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:16:9-40
+41        android:label="@string/app_name"
+41-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:17:9-41
+42        android:testOnly="true" >
+43        <activity android:name="com.dirtcube.androidintegrationunity.MainActivity" >
+43-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:18:9-24:20
+43-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:18:19-47
+44            <intent-filter>
+44-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:19:13-23:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:20:17-69
+45-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:20:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:22:17-77
+47-->/Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:22:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-49:20
+51            android:name="com.unity3d.player.UnityPlayerActivity"
+51-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-66
+52            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+52-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-194
+53            android:hardwareAccelerated="false"
+53-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-48
+54            android:launchMode="singleTask"
+54-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-44
+55            android:screenOrientation="fullSensor"
+55-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-51
+56            android:theme="@style/UnityThemeSelector" >
+56-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-54
+57
+58            <!-- <intent-filter> -->
+59            <!-- <action android:name="android.intent.action.MAIN" /> -->
+60            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+61            <!-- </intent-filter> -->
+62            <meta-data
+62-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-45:40
+63                android:name="unityplayer.UnityActivity"
+63-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:17-57
+64                android:value="true" />
+64-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:17-37
+65            <meta-data
+65-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-48:40
+66                android:name="android.notch_support"
+66-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:17-53
+67                android:value="true" />
+67-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:17-37
+68        </activity>
+69
+70        <meta-data
+70-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:9-53:33
+71            android:name="unity.splash-mode"
+71-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-45
+72            android:value="0" />
+72-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-30
+73        <meta-data
+73-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-56:36
+74            android:name="unity.splash-enable"
+74-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:13-47
+75            android:value="True" />
+75-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-33
+76        <meta-data
+76-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-59:50
+77            android:name="notch.config"
+77-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-40
+78            android:value="portrait|landscape" />
+78-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-47
+79        <meta-data
+79-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:9-62:68
+80            android:name="unity.build-id"
+80-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-42
+81            android:value="719ebfd7-03e6-4aea-b1ac-30b4b27bb441" />
+81-->[:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-65
+82    </application>
+83
+84</manifest>

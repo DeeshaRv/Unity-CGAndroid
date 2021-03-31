@@ -1,0 +1,4 @@
+com/dirtcube/androidintegrationunity/BuildConfig.java
+ com.dirtcube.androidintegrationunity.BuildConfig
+com/dirtcube/androidintegrationunity/MainActivity.java
+ com.dirtcube.androidintegrationunity.MainActivity

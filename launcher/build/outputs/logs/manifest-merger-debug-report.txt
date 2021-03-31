@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:3:1-65:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ba7ed4285a004dfe1373d21c95c6e3f4/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/177c13e4b5f525d755d5433ca43f3e52/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/2b7739e6de5b26c8766d6dbbb9ff8691/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/f93ad182bd025d24e66677d5c16678a1/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/fe279943fe73613e94062e752647ef5d/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/62b91a96348ad121da28f0fbe920d62c/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/fd1b0a001c56dd9978313e899830085f/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/58a6bc3592e7cd9c20c76e90eee479ce/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/1092e5b850b517899202ef63eb4cbf27/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/da66f7bfd0c7355203c28dadfed3a9f7/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/a8588a45d1a6242e25e0fa453af8d6a4/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/3c695823f725522bd8aa352ddb50dfd1/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/79a8ca8423e40ebe8ecb7cb2cbcdbbdc/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/d3d6c1237fc6cdda9e7954c8e8b63576/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/6ad6adc1db78e19f3da18a5824bf9dfe/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/4382fa6565f298372bd4db83af0a1e93/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/f27cfbad9b53d979f30285672df01bc9/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/27f4e58b0681d0dfeeb598436a746361/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ab623fdcd3d6b1aab0a8a08fac9f9519/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/0cfff2a19ea14c55e76c30fcc8b867ce/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/bd5f0284cf35a9d8ae2edd24da575346/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/5fb89a37ea750de63755822ffa59905f/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/97edef5249ff1c1f920f482483b00617/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/05147b941c0a3bd29811ac39eee3c4e9/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/d5613237d373e15e2d7a633eab11523a/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/3c4857f32658ae7372d37896112aa5f7/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:4:5-51
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:8:9-34
+application
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:14:5-26:19
+MERGED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-63:19
+MERGED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-63:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/177c13e4b5f525d755d5433ca43f3e52/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/177c13e4b5f525d755d5433ca43f3e52/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/4382fa6565f298372bd4db83af0a1e93/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/4382fa6565f298372bd4db83af0a1e93/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:15:9-41
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:16:9-40
+activity#com.dirtcube.androidintegrationunity.MainActivity
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ba7ed4285a004dfe1373d21c95c6e3f4/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ba7ed4285a004dfe1373d21c95c6e3f4/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/177c13e4b5f525d755d5433ca43f3e52/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/177c13e4b5f525d755d5433ca43f3e52/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/2b7739e6de5b26c8766d6dbbb9ff8691/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/2b7739e6de5b26c8766d6dbbb9ff8691/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/f93ad182bd025d24e66677d5c16678a1/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/f93ad182bd025d24e66677d5c16678a1/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/fe279943fe73613e94062e752647ef5d/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/fe279943fe73613e94062e752647ef5d/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/62b91a96348ad121da28f0fbe920d62c/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/62b91a96348ad121da28f0fbe920d62c/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/fd1b0a001c56dd9978313e899830085f/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/fd1b0a001c56dd9978313e899830085f/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/58a6bc3592e7cd9c20c76e90eee479ce/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/58a6bc3592e7cd9c20c76e90eee479ce/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/1092e5b850b517899202ef63eb4cbf27/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/1092e5b850b517899202ef63eb4cbf27/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/da66f7bfd0c7355203c28dadfed3a9f7/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/da66f7bfd0c7355203c28dadfed3a9f7/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/a8588a45d1a6242e25e0fa453af8d6a4/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/a8588a45d1a6242e25e0fa453af8d6a4/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/3c695823f725522bd8aa352ddb50dfd1/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/3c695823f725522bd8aa352ddb50dfd1/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/79a8ca8423e40ebe8ecb7cb2cbcdbbdc/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/79a8ca8423e40ebe8ecb7cb2cbcdbbdc/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/d3d6c1237fc6cdda9e7954c8e8b63576/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/d3d6c1237fc6cdda9e7954c8e8b63576/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/6ad6adc1db78e19f3da18a5824bf9dfe/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/6ad6adc1db78e19f3da18a5824bf9dfe/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ec03a4b93622a43bc41989e073eb1a20/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/4382fa6565f298372bd4db83af0a1e93/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/4382fa6565f298372bd4db83af0a1e93/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/f27cfbad9b53d979f30285672df01bc9/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/f27cfbad9b53d979f30285672df01bc9/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/27f4e58b0681d0dfeeb598436a746361/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/27f4e58b0681d0dfeeb598436a746361/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ab623fdcd3d6b1aab0a8a08fac9f9519/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/ab623fdcd3d6b1aab0a8a08fac9f9519/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/0cfff2a19ea14c55e76c30fcc8b867ce/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/0cfff2a19ea14c55e76c30fcc8b867ce/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/bd5f0284cf35a9d8ae2edd24da575346/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/bd5f0284cf35a9d8ae2edd24da575346/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/5fb89a37ea750de63755822ffa59905f/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/5fb89a37ea750de63755822ffa59905f/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/97edef5249ff1c1f920f482483b00617/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/97edef5249ff1c1f920f482483b00617/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/05147b941c0a3bd29811ac39eee3c4e9/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/05147b941c0a3bd29811ac39eee3c4e9/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/d5613237d373e15e2d7a633eab11523a/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/d5613237d373e15e2d7a633eab11523a/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/3c4857f32658ae7372d37896112aa5f7/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deesharv/.gradle/caches/transforms-2/files-2.1/3c4857f32658ae7372d37896112aa5f7/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/deesharv/Downloads/Exported-Project/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-49:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-45:40
+	android:value
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-48:40
+	android:value
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:9-53:33
+	android:value
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:53:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:9-56:36
+	android:value
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:9-59:50
+	android:value
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:60:9-62:68
+	android:value
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/deesharv/Downloads/Exported-Project/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:13-42
