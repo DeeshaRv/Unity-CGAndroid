@@ -15,6 +15,7 @@
         android:extractNativeLibs="true"
         android:icon="@mipmap/app_icon"
         android:label="@string/app_name">
+        <activity android:name="com.ct.littlesingham.unityhelper.UnityIntegrationHelperActivity"></activity>
         <activity android:name=".UnityHelperActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,7 +23,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>

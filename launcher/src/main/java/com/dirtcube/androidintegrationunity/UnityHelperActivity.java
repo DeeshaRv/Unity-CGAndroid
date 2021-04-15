@@ -11,12 +11,25 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-public class UnityHelperActivity extends UnityPlayerActivity {
+@Deprecated
+public abstract class UnityHelperActivity extends UnityPlayerActivity {
+
+    abstract public void levelStarted(int levelNumber);
+    abstract public void levelCompleted(int levelNumber);
+    abstract public void levelFailed(int levelNumber);
+    abstract public void gameEnded(int lastLevelNumber);
+    abstract public void soundSettingChanged(boolean isSoundOn);
+    abstract public void gameExit();
+    abstract public void gameLoaded();
+    //abstract public void gameLoadingValue(int percentage);
+    //abstract public void submitScore(int scoreValue);
+
+    //NOTE: BEFORE passing the asset bundle pass the sound related function --- KEY "SetDefaultSound".
+    // Pass true or false as a string in sendMessage to send soundSetting preference to unity game at launch.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
         String finalLocation = copyFileFromAssetToCache("house.hub");
         mUnityPlayer.UnitySendMessage("Manager", "NativeMessageLocal",finalLocation);
     }
@@ -53,65 +66,65 @@ public class UnityHelperActivity extends UnityPlayerActivity {
     /*Call this event when game play of a new level starts
     * VAR: levelNumber is the numeric value of the level started
     * CALL THIS FUNCTION AGAIN IF THE LEVEL HAS RE-STARTED */
-    public void gameStarted(int levelNumber){
-        Log.d("UnityLog: ","gameStarted--"+levelNumber);
-    }
+    //    public void gameStarted(int levelNumber){
+//        Log.d("UnityLog: ","gameStarted--"+levelNumber);
+//    }
 
     /*Call this event when game play of a level is completed successfully
      * VAR: levelNumber is the numeric value of the level completed*/
-    public void gameCompleted(int levelNumber){
-        Log.d("UnityLog: ","gameCompleted--"+levelNumber);
-
-    }
+    //    public void gameCompleted(int levelNumber){
+//        Log.d("UnityLog: ","gameCompleted--"+levelNumber);
+//
+//    }
 
     /*Call this event when game play of a level has failed
     * VAR: levelNumber is the numeric value of the level failed*/
-    public void gameFailed(int levelNumber){
-        Log.d("UnityLog: ","gameFailed--"+levelNumber);
-
-    }
+    //    public void gameFailed(int levelNumber){
+//        Log.d("UnityLog: ","gameFailed--"+levelNumber);
+//
+//    }
 
     /*Call this event last game level is completed
     * call it after gameCompleted and submitScore functions being called.
     * VAR: lastLevelNumber is the numeric value of the level completed*/
-    public void gameEnded(int lastLevelNumber){
-        Log.d("UnityLog: ","gameEnded--"+lastLevelNumber);
-
-    }
+    //    public void gameEnded(int lastLevelNumber){
+//        Log.d("UnityLog: ","gameEnded--"+lastLevelNumber);
+//
+//    }
 
     /*Call this event when user changes sound setting
     * VAR: isSoundOn should be true if sound is switched ON
     * VAR: isSoundOn should be false if sound is switched OFF*/
-    public void soundSettingChanged(boolean isSoundOn){
-        Log.d("UnityLog: ","soundSettingChanged--"+isSoundOn);
-
-    }
+//    public void soundSettingChanged(boolean isSoundOn){
+//        Log.d("UnityLog: ","soundSettingChanged--"+isSoundOn);
+//
+//    }
 
     /*Call this event when the user exits the game by pressing back from the main screen*/
-    public void gameExit(){
-        Log.d("UnityLog: ","gameExit");
-
-    }
+//    public void gameExit(){
+//        Log.d("UnityLog: ","gameExit");
+//
+//    }
 
     /*Call this event when the game has loaded successfully and ready to interact with*/
-    public void gameLoaded(){
-        Log.d("UnityLog: ","gameLoaded--");
-
-    }
+//    public void gameLoaded(){
+//        Log.d("UnityLog: ","gameLoaded--");
+//
+//    }
 
     /*Call this event when the game has loaded successfully and ready to interact with
     * VAR: percentage is the %value of the loaded game.
     * If the game is having heavy resources to load then this shall be
     * logged to pass the update to the loading screen*/
-    public void gameLoadingValue(int percentage){
-        Log.d("UnityLog: ","gameLoadingValue--"+percentage);
-    }
+//    public void gameLoadingValue(int percentage){
+//        Log.d("UnityLog: ","gameLoadingValue--"+percentage);
+//    }
 
     /* Call this event to pass the game score after calling gameCompleted function.
     * VAR: scoreValue is the integer value of the score given to the player */
-    public void submitScore(int scoreValue){
-        Log.d("UnityLog: ","submitScore--"+scoreValue);
-
-    }
+//    public void submitScore(int scoreValue){
+//        Log.d("UnityLog: ","submitScore--"+scoreValue);
+//
+//    }
 
 }
